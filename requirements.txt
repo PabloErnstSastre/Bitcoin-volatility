@@ -1,0 +1,9 @@
+pandas
+numpy
+yfinance
+matplotlib
+arch
+scipy
+# optional deep learning model (LSTM)
+torch
+torchvision
